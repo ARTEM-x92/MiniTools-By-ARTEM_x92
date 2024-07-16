@@ -11,4 +11,4 @@ Python2 or higher
 sudo apt-get install python
 
 ### Windows
-#/ Python.exe
+Python.exe
