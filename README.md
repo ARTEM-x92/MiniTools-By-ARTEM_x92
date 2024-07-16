@@ -1,7 +1,7 @@
 # MiniTools-By-ARTEM_x92
 MiniTools, These tools will help you in firmware development.
 
-Writen in Python
+written on python
 
 ## Requirements
 Python2 or higher
